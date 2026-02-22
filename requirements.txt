@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+scikit-learn
+xgboost
+plotly
+
+qiskit
+qiskit-aer
+qiskit-machine-learning
+qiskit-algorithms
+
+reportlab
+
