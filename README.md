@@ -79,9 +79,4 @@ qiskit
 python
 
 
----
 
-If you want, I can also help you **generate a license file**, **requirements text**, or a **LinkedIn project description** for your portfolio 👍
-
-Just tell me what you need next! 🚀
-::contentReference[oaicite:3]{index=3}
